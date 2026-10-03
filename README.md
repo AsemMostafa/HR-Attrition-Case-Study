@@ -1,3 +1,8 @@
+## 📊 Project Overview
+HR Attrition Dashboard is An interactive Power BI dashboard designed to analyze employee attrition and identify where turnover is concentrated across roles, departments, compensation, tenure, overtime, and employee segments.
+Explore key attrition patterns, high-risk employee groups, and factors associated with employee turnover to support data-driven HR decisions.
+## 📄 Dashboard pages
+
 <img width="1188" height="672" alt="image" src="https://github.com/user-attachments/assets/ede08cc6-690a-4e36-bf59-12b9b20722aa" />
 
 <img width="1189" height="672" alt="image" src="https://github.com/user-attachments/assets/ac5593ac-edd3-49ae-83ac-bfbf8034032a" />
@@ -75,5 +80,5 @@ Review and rebalance overtime among **Level 1 employees**, starting with the hig
 4. **Strengthen early-tenure support** for new hires, particularly during the first 1–2 years.
 5. **Track risk-segment KPIs**, such as Level 1 + Overtime attrition, to evaluate whether retention initiatives are associated with improvement.
 
-> **⚠️ Important Note:** This analysis is based on a **single snapshot with no time dimension**. The findings therefore show **associations, not proven causal relationships**. While the relationship between overtime and attrition is strong in this dataset, a controlled pilot or longitudinal analysis would be needed to assess whether reducing overtime actually reduces attrition.
+> **⚠️ Important Note:** this is a single snapshot with no dates, so the findings show association, not proven cause. The overtime link is strong, but a pilot would be the way to confirm it.
 
